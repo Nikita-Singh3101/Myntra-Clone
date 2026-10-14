@@ -1,0 +1,14 @@
+.flex{
+    display:flex;
+}
+
+.item-centre{
+    align-items: center;
+
+}
+
+.justify-centre{
+    justify-content: center;
+
+
+}
